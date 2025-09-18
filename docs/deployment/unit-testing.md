@@ -35,7 +35,7 @@ To add xUnit tests to your .NET MAUI solution, either:
 
   OR
 
-- Use .NET CLI to create a new xUnit test project and add it to your solution. For more information, see [Unit testing C# in .NET using dotnet test and xUnit](/dotnet/core/testing/unit-testing-with-dotnet-test).
+- Use .NET CLI to create a new xUnit test project and add it to your solution. For more information, see [Unit testing C# in .NET using dotnet test and xUnit](/dotnet/core/testing/unit-testing-csharp-with-xunit).
 
 The project file (*.csproj*) for the xUnit test project will be similar to the following example:
 
